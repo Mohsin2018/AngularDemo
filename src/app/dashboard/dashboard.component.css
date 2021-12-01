@@ -1,0 +1,38 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.first
+{
+    background-color: cornflowerblue;
+}
+
+.rest
+{
+    background-color: lightslategray;
+    text-align: center;
+    font-size: 22px;
+    padding-top: 20px;
+}
+
+.row
+{
+    color:white !important;
+}
+
+.text-muted
+{
+    color: white !important;
+}
+
+.code-velocity
+{
+    text-align: center;
+    font-size: 22px;
+    padding-top: 25px;
+}
+
+#myChart
+{
+    display: block;
+    width: 330px !important;
+    height: 300px !important;
+}
